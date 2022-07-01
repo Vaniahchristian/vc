@@ -1,0 +1,78 @@
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    
+    .Mybio {
+        background-color: gray;
+        width: 400px;
+        height: 350px;
+        justify-content: center;
+        text-align: centre;
+        display: inline-block;
+    }
+    
+    .Mybio:hover {
+        transition: 2s;
+        background-color: aqua;
+    }
+    
+    .MyEducationHistory {
+        background-color: blue;
+        width: 550px;
+        height: 350px;
+        text-align: centre;
+        margin-left: 400px;
+    }
+    
+    .MyEducationHistory:hover {
+        transition: 2s;
+        background-color: pink;
+        color: green;
+    }
+    
+    .hobbies {
+        background-color: red;
+        width: 400px;
+        height: 350px;
+        text-align: centre;
+        float: left;
+    }
+    
+    .hobbies:hover {
+        transition: 2s;
+        background-color: yellow;
+        color: blue;
+    }
+    
+    .contactform {
+        background-color: blue;
+        width: 400px;
+        height: 350px;
+        text-align: centre;
+        float: right;
+    }
+    
+    .contactform:hover {
+        transition: 2s;
+        background-color: red;
+    }
+    
+    .Myphoto {
+        background-color: green;
+        width: 400px;
+        height: 350px;
+        text-align: centre;
+        display: inline-block;
+        margin-left: 530px;
+    }
+    
+    .Myphoto:hover {
+        transition: 2s;
+        background-color: yellow;
+    }
+    
+    h2 {
+        margin: 0px;
+    }
